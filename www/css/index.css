@@ -23,7 +23,10 @@
 {
 	background-color:#AD36C8;
 }
-
+.footer
+{
+	background-color:#ff9d5b;
+}
 body {
     -webkit-touch-callout: none;                /* prevent callout to copy image, etc when tap to hold */
     -webkit-text-size-adjust: none;             /* prevent webkit from resizing text to fit */
